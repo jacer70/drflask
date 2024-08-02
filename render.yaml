@@ -2,4 +2,4 @@ version: 1
 services:
   web:
     type: python
-    python_version: "3.8"  # Cambia esto a la versión que necesites
+    python_version: "3.11"  # Cambia esto a la versión que necesites
